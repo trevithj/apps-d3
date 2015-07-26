@@ -1,0 +1,13 @@
+{
+  "name": "apps-d3",
+  "version": "0.0.1",
+  "description": "Dev setup for D3 apps written server-side and browserified. Aim is for a minimalist setup.",
+  "repository": "https://github.com/trevithj",
+  "main": "js/main.js",
+  "dependencies": {
+    "browserify": "^6.2.0",
+    "d3": "^3.5.6",
+    "gulp": "^3.8.11",
+    "vinyl-transform": "^1.0.0"
+  }
+}
